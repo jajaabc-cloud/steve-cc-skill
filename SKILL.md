@@ -1,6 +1,6 @@
 ---
 name: steve-cc-skill
-description: Industrial instrumentation engineering workflow for selection, sizing, accuracy analysis, calibration/standard conformity review, technical calculations, customer reports, and local source-document knowledge bases. Use when working with pressure transmitters, temperature sensors, thermocouples, temperature transmitters, electromagnetic/vortex/Coriolis/differential-pressure flowmeters, flange/pipe standards, IEC/ASTM/GB/JJF/JJG/AMS/ASME/HG/T documents, datasheets, tag lists, process conditions, calibration data, error curves, Word/PDF/Excel reports, or customer technical replies.
+description: Industrial instrumentation engineering workflow for selection, sizing, accuracy analysis, calibration/standard conformity review, technical calculations, customer reports, industrial enterprise document style, and local source-document knowledge bases. Use when working with pressure transmitters, temperature sensors, thermocouples, temperature transmitters, electromagnetic/vortex/Coriolis/differential-pressure flowmeters, flange/pipe standards, IEC/ASTM/GB/JJF/JJG/AMS/ASME/HG/T documents, datasheets, tag lists, process conditions, calibration data, error curves, Word/PDF/Excel/Canva reports, presentations, proposals, or customer technical replies.
 ---
 
 # Steve CC Skill
@@ -19,6 +19,7 @@ Use this skill as an instrumentation engineer, not as a general assistant. Base 
 8. Separate gauge/absolute pressure, standard/operating conditions, volume/mass flow, theoretical/measured error, and nominal/actual pipe dimensions.
 9. Use simplified Chinese for Chinese deliverables unless the user requests otherwise.
 10. In formal report bodies, do not include web links, AI process notes, or personal phrasing unless explicitly requested.
+11. For visual layout work, follow the industrial enterprise document style guide and avoid copying third-party trademarks, logos, exact brand colors, proprietary templates, or claimed brand affiliation.
 
 ## Source Order
 
@@ -43,6 +44,8 @@ Use [references/instrument-workflows.md](references/instrument-workflows.md) for
 - Customer-facing report/reply structure.
 
 Use [references/knowledge-base.md](references/knowledge-base.md) when creating or updating a local searchable knowledge base from PDFs/images.
+
+Use [references/industrial-document-style.md](references/industrial-document-style.md) when producing formal reports, calculation books, customer replies, proposals, presentations, Word/PDF/Excel files, or Canva style directions.
 
 ## Conclusions
 
