@@ -1,7 +1,7 @@
 interface:
   display_name: "Steve CC Skill"
-  short_description: "Instrumentation selection, calculations, standards, reports"
-  default_prompt: "Use $steve-cc-skill to evaluate an industrial instrument selection with documented sources, calculations, risks, and missing conditions."
+  short_description: "Instrumentation selection, calculations, standards, reports, style"
+  default_prompt: "Use $steve-cc-skill to evaluate an industrial instrument selection or technical document with documented sources, calculations, risks, missing conditions, and restrained industrial enterprise style."
 
 policy:
   allow_implicit_invocation: true
